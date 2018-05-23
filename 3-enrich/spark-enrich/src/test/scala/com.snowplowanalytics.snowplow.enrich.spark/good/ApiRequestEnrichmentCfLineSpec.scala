@@ -39,7 +39,7 @@ object ApiRequestEnrichmentCfLineSpec {
     etlVersion,
     null, // No user_id set
     "17803d07577023208861c69cbccbdfc0a041b06c",
-    "9795bd0203804cd1",
+    "2876815413",
     "43",
     null, // No network_userid set
     "US", // US geolocation
